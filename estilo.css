@@ -5,6 +5,11 @@ font-family:'Fredoka One', cursive;
 text-align:center;
 background-color:purple;
 color:white;
+} 
+h2
+{
+    color: rebeccapurple;
+    font-size: large;
 }
 body
 {
